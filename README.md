@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jassonjr5@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jasson-júnior-07278b213](www.linkedin.com/in/jasson-júnior-07278b213)
+- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/jasson-júnior-07278b213)
 
 - ⚡ Fun fact **I love listen to music**
 
