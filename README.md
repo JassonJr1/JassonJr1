@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasson Júnior</h1>
 <h3 align="center">I'm a dedicated front-end developer specializing in creating captivating user interfaces. Proficient in Python and C, I bring a versatile skill set to transform designs into seamless and visually appealing websites.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **jassonjr5@gmail.com**
 
